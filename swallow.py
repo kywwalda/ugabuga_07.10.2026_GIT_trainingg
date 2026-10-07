@@ -12,4 +12,4 @@ def add_to_playlist(song):
 add_to_playlist(song2)
 add_to_playlist(song1)
 
-print(playlist)
+print(playlist, "мои любимые")
